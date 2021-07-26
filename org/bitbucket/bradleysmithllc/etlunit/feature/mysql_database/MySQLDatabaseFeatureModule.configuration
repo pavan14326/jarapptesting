@@ -1,0 +1,7 @@
+{
+	features: {
+		mysql-database: {
+			useful-module: 'stuff'
+		}
+	}
+}

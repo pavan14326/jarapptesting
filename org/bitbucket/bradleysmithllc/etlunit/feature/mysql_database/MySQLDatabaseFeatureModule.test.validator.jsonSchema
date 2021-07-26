@@ -1,0 +1,13 @@
+{
+	"type": "object",
+	"properties":
+	{
+		"option":
+		{
+			"type": "string",
+			"required": true
+		}
+	},
+	"extends": "org/bitbucket/bradleysmithllc/etlunit/feature/mysql_database/MySQLDatabaseFeatureModule.configuration.validator.jsonSchema",
+	"additionalProperties": false
+}
